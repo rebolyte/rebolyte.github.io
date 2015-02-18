@@ -1,0 +1,21 @@
+{
+  "name": "rebolyte-github-io",
+  "version": "0.0.1",
+  "description": "My GitHub pages site.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rebolyte/rebolyte.github.io.git"
+  },
+  "keywords": [
+  ],
+  "author": "James Irwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rebolyte/programming-resources/issues"
+  },
+  "homepage": "https://rebolyte.github.io/",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-gh-pages": "^0.4.0"
+  }
+}
